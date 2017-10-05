@@ -4,7 +4,7 @@
 	<meta charset="utf-8" />
 
     <!-- Bootstrap core CSS -->
-    <link href="_css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!---
 	<link href="css/styles.css" rel="stylesheet" type="text/css" />
@@ -87,8 +87,8 @@
         .attr("height", height);
 
     queue()
-      .defer(d3.json, "_topoJSON/us.json")
-      .defer(d3.json, "_topoJSON/us-congress-113.json")
+      .defer(d3.json, "topoJSON/us.json")
+      .defer(d3.json, "topoJSON/us-congress-113.json")
       .await(ready);
 
     function ready(error, us, congress) {
