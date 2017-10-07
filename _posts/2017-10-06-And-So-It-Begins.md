@@ -9,7 +9,7 @@ Better question: why would you look for me here?
 
 Best question: why would you find me here?
 
-Apparently, a "presence" in the strip-mall that lines the information superhighway has become _de rigeur_.&nbsp; 
+Apparently, a "presence" in the strip-mall that lines the information superhighway has become _de rigueur_.&nbsp; 
 Required, I find, even for the likes of me: someone who has worked as a programmer, analyst, and consultant on computers for more than half my life.&nbsp; 
 That's a long time.&nbsp; Not because I am a computer prodigy who started hacking my way through grade school, mind you.&nbsp; (When I was in grade school, 
 computers were judged by how many tons of air conditioning were required to keep them from going China Syndrome).
