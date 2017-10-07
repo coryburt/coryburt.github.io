@@ -12,7 +12,7 @@ Best question: why would you find me here?
 The answer is that I have discovered that a "presence" in the strip-mall that lines the information superhighway has simply become _de rigueur_.&nbsp; 
 I have worked as a programmer, analyst, and consultant in "Information Technology" for more than half my life.&nbsp; 
 That's a long time.&nbsp; Not because I am a computer prodigy who started hacking my way through grade school, mind you.&nbsp; (When I was in grade school, 
-computers were judged by how many tons of air conditioning they required to keep from going [China Syndrome](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiJ_YGJ9t7WAhVBrlQKHedTAG0QFggmMAA&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_China_Syndrome&usg=AOvVaw224COq4UfYbpouV-jNrme-).&nbsp; 
+computers were judged by how many tons of air conditioning they required to keep from going [China Syndrome](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiJ_YGJ9t7WAhVBrlQKHedTAG0QFggmMAA&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_China_Syndrome&usg=AOvVaw224COq4UfYbpouV-jNrme-)).&nbsp; 
 No, that would be more than half my life in adult years.&nbsp; The kind you start counting in earnest _after_ you graduate from college.
 
 My father -- were he still with us and savvy to the ways of the 21st century -- would think this presence should not be necessary.&nbsp; 
