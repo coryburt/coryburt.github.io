@@ -3,6 +3,7 @@ layout: "post"
 title:  "My presence on github pages"
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Why am I here?  Rather, why would you look for me here?  And find me.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Apparently, a "presence" in the strip-mall that lines the information superhighway has become _de rigeur_.  Required, at least, for the likes of me: someone who has worked as a programmer, analyst, and consultant on computers for more than half my life.
+That's a long time.  You'd think it might not be necessary in my case, but that would be a rash assumption.
