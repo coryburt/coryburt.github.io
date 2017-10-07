@@ -25,7 +25,7 @@ It used to be that only CEO's and COO's were valued by how many different organi
 Now, staying too long in one place is viewed with hesitation, as if it meant not loyalty or job satisfaction, but lack of drive and ambition.&nbsp; 
 This is a strange land where old experience is presumed to be obsolete experience.&nbsp; 
 A place where the expression "soft skills" illicits the same blank stare that "corporate ladder" does.&nbsp;
-It is a place where both the energy and the foibles of youth are job requirements.&nbsp; One doesn't "land a job" more than one is invited to "hang out."
+It is a place where both the energy and the foibles of youth are job requirements.&nbsp; One doesn't "land a job" more than one is "invited to hang out."
 
 So, here I am.&nbsp; 
 Github is one of the choice virtual "Watering Holes" of my industry, and these awesome Github Pages represent a valuable resource, proffered in the true spirit of open-source.&nbsp; 
@@ -33,6 +33,6 @@ As I pound and piece my way through [Jekyll](https://www.google.com/url?sa=t&rct
 and brush off my Javascript and CSS, I will (probably) create Project Pages to go along with this personal blog.&nbsp; 
 I don't expect to make many entries here -- though I am more stimulated by the sound of my own voice than I like to admit -- social media has always seemed to me 
 to be the very definition of over-sharing.&nbsp; 
-Thanks to my mother's philosophy that all men are Fat-heads, I can't make myself believe I'm interesting enough to indulge it.&nbsp; 
+Thanks to my mother's philosophy that all men are bumptious wise-guys at heart, (she would have used the word "fat-heads"), I can't make myself believe I'm interesting enough to indulge it.&nbsp; 
 It is, nonetheless, the easiest and safest way for us to find out about one another -- even if it offers no path at all to the highest and innermost truths about us.&nbsp; 
 Who wants to deal with that, anyway?
