@@ -9,14 +9,20 @@ Better question: why would you look for me here?
 
 Best question: why would you find me here?
 
-Apparently, a "presence" in the strip-mall that lines the information superhighway has become _de rigueur_.&nbsp; 
-Required, I find, even for the likes of me: someone who has worked as a programmer, analyst, and consultant on computers for more than half my life.&nbsp; 
-That's a long time.&nbsp; (Not because I am a computer prodigy who started hacking my way through grade school, mind you; when I was in grade school, 
-computers were judged by how many tons of air conditioning were required to keep them from going _China Syndrome_).&nbsp; No, that would be more than half my 
-life in adult years.&nbsp; The kind you start counting in earnest after you graduate from college.
+The answer is that I have discovered that a "presence" in the strip-mall that lines the information superhighway has simply become _de rigueur_.&nbsp; 
+I have worked as a programmer, analyst, and consultant in "Information Technology" for more than half my life.&nbsp; 
+That's a long time.&nbsp; Not because I am a computer prodigy who started hacking my way through grade school, mind you.&nbsp; (When I was in grade school, 
+computers were judged by how many tons of air conditioning they required to keep them from going [China Syndrome](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiJ_YGJ9t7WAhVBrlQKHedTAG0QFggmMAA&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_China_Syndrome&usg=AOvVaw224COq4UfYbpouV-jNrme-).&nbsp; 
+No, that would be more than half my life in adult years.&nbsp; The kind you start counting in earnest after you graduate from college.
 
-You'd think this presence might not be necessary in my case, but that would be a foolish assumption.&nbsp; Being my age doesn't mean being some kind 
-of elder stateman whose gravitas sucks the oxygen out of the conference room.&nbsp; In a field of work and study that evolves at the speed of Moore's Law, 
-you're never even quite as good as the last project you worked.&nbsp; This is field where there is no "corporate ladder" and old experience is always 
+My father -- were he still with us and savvy to the ways of the 21st century -- would think this presence should not be necessary in my case.&nbsp; 
+He would think a person of my age and experience would occupy something of an "elder stateman" status; one whose gravitas would suck the oxygen out 
+of the conference room, and whose "experience" would be valued wherever it went.&nbsp; He would be wrong about that.
+
+In a field of work and study that evolves at the speed of Moore's Law, one is never even quite as good as the last project one worked.&nbsp; 
+This is a field where there the old "corporate ladder" is a historical footnote and an expression that fosters blank stares on the faces of most young workers.&nbsp; 
+It used to be that only CEO's and COO's were valued by how many different organizations they have been part of.&nbsp; 
+Now, staying too long in one place is viewed with hesitation, as if it meant not loyalty or job satisfaction, but lack of drive and ambition.&nbsp; 
+and old experience is always 
 presumed to be obsolete experience.&nbsp; It's a place where "soft skills" carry little weight, (if the concept of "soft skills" is even understood), 
 and youth is presumed superior in every way.&nbsp; 
