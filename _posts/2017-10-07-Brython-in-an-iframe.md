@@ -19,15 +19,12 @@ Of particular interest to me is the (admittedly massive) [Brython](http://brytho
 
 I can hear a gaggle of Javascript specialists out there saying, "Huh?"&nbsp; But, there might a few erstwhile Pythonistas replying, "Makes sense to me."
 
-I wanted to demonstrate this remarkable accomplishement by including the Brython console, in the big empty space below.&nbsp; 
-However, I can't yet figure out how to make it show up on the Github site, (works fine at home).&nbsp; 
-Rather than simply withdraw this post, I'll leave it and work some more on the problem; if I find the solution, I'll make another post.
+I have included the Brython console, below, as a demonstration of a capability that piques my interest.&nbsp; 
 
-<iframe src="http://brython.info/console.html" frameborder="no" border="0" marginwidth="0" marginheight="0" width="670" height="450"></iframe>
+<iframe src="https://brython.info/console.html" frameborder="no" border="0" marginwidth="0" marginheight="0" width="670" height="450"></iframe>
 
-If it actually showed up above, you could try it out right here and demonstrate to yourself how much of the full Python3 language is actually implemented.&nbsp; 
-Quite a large number of Python libraries, (not all, as you might expect), are available for import.&nbsp; 
+Here, you can try it out for yourself and experiment to discover how much of the full Python3 language is actually implemented.&nbsp; 
+Quite a large number of Python libraries are available for import, (not all, as you might expect).&nbsp; 
 Best of all, it makes scripting the browser available to the Python programmer.&nbsp; 
 Perhaps not the most emminently practical thing to do, but surprisingly capable and responsive.&nbsp; Definitely amazing.&nbsp; 
-Just not on Jekyll-generated Github Pages.&nbsp; Yet.
 
