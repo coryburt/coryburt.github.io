@@ -21,7 +21,7 @@ I can hear a gaggle of Javascript specialists out there saying, "Huh?"&nbsp; But
 
 I have included the Brython console, below, as a demonstration of a capability that piques my interest.&nbsp; 
 
-<iframe src="https://brython.info/console.html" frameborder="no" border="0" marginwidth="0" marginheight="0" width="700" height="550"></iframe>
+<iframe src="https://brython.info/console.html" frameborder="no" border="0" marginwidth="0" marginheight="0" width="800" height="600"></iframe>
 
 Here, you can try it out for yourself and experiment to discover how much of the full Python3 language is actually implemented.&nbsp; 
 Quite a large number of Python libraries are available for import, (not all, as you might expect).&nbsp; 
