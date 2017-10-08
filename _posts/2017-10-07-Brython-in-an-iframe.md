@@ -17,14 +17,13 @@ These are among the most thoroughly developed, but there are others out there th
 They are Javascript libraries that integrate the Python language, in one way or another, with the Javascript engine that is already there.&nbsp; 
 Of particular interest to me is the (admittedly massive) [Brython](http://brython.info/) library.
 
-I can hear a gaggle of Javascript specialists out there saying, "Huh?"&nbsp; But, there might a few erstwhile Pythonistas replying, "Makes sense to me."
+I can hear a gaggle of Javascript specialists out there asking, "Huh?"&nbsp; But, there might a few erstwhile Pythonistas replying, "Makes sense to me."
 
-I have included the Brython console, below, as a demonstration of a capability that piques my interest.&nbsp; 
-
-<iframe src="https://brython.info/console.html" frameborder="no" border="0" marginwidth="0" marginheight="0" width="800" height="400"></iframe>
-
-Here, you can try it out for yourself and experiment to discover how much of the full Python3 language is actually implemented.&nbsp; 
-Quite a large number of Python libraries are available for import, (not all, as you might expect).&nbsp; 
+Try the [Brython console](http://brython.info/console.html) for yourself.&nbsp; 
+You can experiment with it directly to discover how much of the full Python3 language is actually implemented.&nbsp; 
+Quite a large number of Python libraries are available for import -- not all, of course, but support is growing.&nbsp; 
 Best of all, it makes scripting the browser available to the Python programmer.&nbsp; 
-Perhaps not the most emminently practical thing to do, but surprisingly capable and responsive.&nbsp; Definitely amazing.&nbsp; 
+If I've the time, I will give it a try and demonstrate some some experiments with it for myself.&nbsp; 
+Perhaps using Javascript to replace Javascript with Python is not the most emminently practical thing to do, but is, by all reports, surprisingly capable and responsive.&nbsp; 
+Definitely amazing.
 
