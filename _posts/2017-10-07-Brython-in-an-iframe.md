@@ -28,5 +28,6 @@ Rather than simply withdraw this post, I'll leave it and work some more on the p
 If it actually showed up above, you could try it out right here and demonstrate to yourself how much of the full Python3 language is actually implemented.&nbsp; 
 Quite a large number of Python libraries, (not all, as you might expect), are available for import.&nbsp; 
 Best of all, it makes scripting the browser available to the Python programmer.&nbsp; 
-Perhaps not the most emminently practical thing to do, but surprisingly capable and responsive.&nbsp; Definitely amazing.&nbsp; Just not on Github Pages.&nbsp; Yet.
+Perhaps not the most emminently practical thing to do, but surprisingly capable and responsive.&nbsp; Definitely amazing.&nbsp; 
+Just not on Jekyll-generated Github Pages.&nbsp; Yet.
 
