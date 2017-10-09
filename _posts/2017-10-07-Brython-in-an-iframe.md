@@ -27,3 +27,4 @@ If I've the time, I will give it a try and demonstrate some some experiments wit
 Perhaps using Javascript to replace Javascript with Python is not the most emminently practical thing to do, but is, by all reports, surprisingly capable and responsive.&nbsp; 
 Definitely amazing.
 
+<iframe src="/proj/brython-console/brython_console.html" width="800" height="400"></iframe>
