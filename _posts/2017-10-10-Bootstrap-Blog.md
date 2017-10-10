@@ -115,11 +115,6 @@ title:  "The Exhausting-All-Other-Options Blog"
         </div><!-- /.row -->
     </div><!-- /.container -->
 
-    <footer class="blog-footer">
-        <p>Derived from the <a href="https://getbootstrap.com/examples/#">Blog Template For Bootstrap</a>.</p>
-        <p><a href="#">Back to top</a></p>
-    </footer>
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
