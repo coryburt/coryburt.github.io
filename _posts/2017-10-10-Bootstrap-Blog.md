@@ -3,7 +3,6 @@ layout: "post"
 title:  "The Exhausting-All-Other-Options Blog"
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
