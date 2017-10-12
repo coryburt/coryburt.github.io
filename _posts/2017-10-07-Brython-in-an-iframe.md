@@ -14,24 +14,27 @@ I have, of late, thought of myself as a "systems developer" with an emphasis on 
 I freely confess that my favorite programming language is always the one I've used the most in my most recent activities.&nbsp; 
 Several years ago, that would have been Perl, followed by PHP.&nbsp; 
 If you have a sadistic turn of mind and decide to inflict the dread whiteboard coding test on me, it still comes out as Perl.&nbsp; 
-(I am usually effusive in erudite English, _impromptu_, in front of audiences of more than one; 
+(I am usually effusive in English, _impromptu_, in front of audiences of more than one; 
 mysteriously, one-on-one interaction is where things begin to go south for me).&nbsp; 
-As they like to say in the Perl community: TIMTOWTODI.&nbsp;
+Anyway, as they like to say in the Perl community: TIMTOWTODI.&nbsp;
 
 That is why I have been excited to find out about Javascript libraries like [Skulpt](http://www.skulpt.org/), [PyPy.js](http://pypyjs.org/), [Transcrypt](http://transcrypt.org/),
-and [RapydScript](https://bitbucket.org/pyjeon/rapydscript).&nbsp; 
+and [RapydScript](https://bitbucket.org/pyjeon/rapydscript), to name just a few.&nbsp; 
 These are among the most thoroughly developed libraries of their ilk, but there are others out there that do what they do, namely: implement Python2 or Python3 in the browser.&nbsp; 
-They integrate the Python language, in one way or another, with the Javascript engine that is already highly optimized in every modern browser.&nbsp; 
-Of particular interest to me is the (admittedly massive) [Brython](http://brython.info/) library.
-
-I can hear a gaggle of Javascript specialists out there asking, "Huh?"&nbsp; But, there might a few erstwhile Pythonistas replying, "Makes sense to me."
+They integrate the Python language, in one way or another, with the Javascript engine that is already highly optimized in modern browsers.&nbsp; 
+Of particular interest to me (currently) is the massive [Brython](http://brython.info/) library.
 
 Try the Brython console for yourself, below.&nbsp; 
 You can experiment with it directly to discover how much of the full Python3 language is actually implemented.&nbsp; 
 Quite a large number of Python libraries are available for import -- not all, of course, but support is very good.&nbsp; 
 Best of all, it makes scripting the browser available to the Python programmer.&nbsp; 
-Perhaps using Javascript to replace Javascript with Python is not the most emminently practical thing to do, but is, by all reports, surprisingly capable and responsive.&nbsp; 
-Kudos to [Pierre Quentel](https://brythonista.wordpress.com/) and the many others who have made this a reality.&nbsp;
-Definitely cool.
+Of course, this isn't the only game like this being played on the mid-way of the Information Superhighway Strip-mall.&nbsp;
+There is [a gaggle](https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js) of 
+"You-name-a-languange-to-Javascript" transpilers, language extensions that completely alter the look-and-feel of Javascript, 
+Coffeescript spin-offs, and even tools to help in making the next tool.&nbsp; 
+Perhaps using Javascript to replace Javascript with Python is not the most obvious thing to do, but is, by all reports, 
+surprisingly capable and responsive -- and comfortingly familiar to some of us.&nbsp;
+Kudos to [Pierre Quentel](https://brythonista.wordpress.com/) for Brython, but my admiration extends to the cast of 
+thousands that have made this kind of thing into "a thing."&nbsp; Definitely cool.
 
 <iframe src="/proj/brython-console/brython_console.html" width="800" height="400"></iframe>
