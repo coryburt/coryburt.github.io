@@ -28,13 +28,21 @@ Try the Brython console for yourself, below.&nbsp;
 You can experiment with it directly to discover how much of the full Python3 language is actually implemented.&nbsp; 
 Quite a large number of Python libraries are available for import -- not all, of course, but support is very good.&nbsp; 
 Best of all, it makes scripting the browser available to the Python programmer.&nbsp; 
-Of course, this isn't the only game like this being played on the mid-way of the Information Superhighway Strip-mall.&nbsp;
-There is [a gaggle](https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js) of 
-"You-name-a-languange-to-Javascript" transpilers, language extensions that completely alter the look-and-feel of Javascript, 
-Coffeescript spin-offs, and even tools to help in making the next tool.&nbsp; 
+
+Brython, which might be thought of as a "run-time cross-interpreter," and it's brethren are certainly not the only examples of this kind of thing.&nbsp;
+Given the amount of free time that skilled programmers have devoted to develop the next 
+["You-name-a-languange-to-Javascript"](https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js) 
+transpiler, 
+one would be sorely tempted to conclude that it is the duty of the open-source world to shield the eyes of innocents from the horrors of vanilla Javascript.&nbsp; 
+The sheer number of Coffeescript spin-offs -- and all other libraries whose sole purpose is to completely alter its look-n-feel -- has 
+to be sending some kind of apocalyptic warning message.&nbsp;
+There are even collections of tools whose _raison d'etra_ is to help in making the next "Javascript metamorph."&nbsp; 
+(There is even a Javascript library _called_ ["Metamorph"](https://github.com/tomhuda/metamorph.js/)).&nbsp; 
 Perhaps using Javascript to replace Javascript with Python is not the most obvious thing to do, but is, by all reports, 
 surprisingly capable and responsive -- and comfortingly familiar to some of us.&nbsp;
-Kudos to [Pierre Quentel](https://brythonista.wordpress.com/) for Brython, but my admiration extends to the cast of 
-thousands that have made this kind of thing into "a thing."&nbsp; Definitely cool.
+Kudos to [Pierre Quentel](https://brythonista.wordpress.com/) and company for Brython, but my admiration extends to the cast of 
+thousands that have made this kind of thing into "a thing."&nbsp; 
+Is it practical or necessary?&nbsp; I'm not expert enough to boast an opinion.&nbsp; 
+Is it cool?&nbsp; That one's easy: most definitely.
 
 <iframe src="/proj/brython-console/brython_console.html" width="800" height="400"></iframe>
