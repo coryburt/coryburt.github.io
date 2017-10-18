@@ -1,11 +1,9 @@
 ---
 layout:             "post"
 title:              "External Javascript in Jekyll-based Github Pages"
-add_brython:        "true"
-add_brython_stdlib: "true"
+add_brython: true
+add_brython_stdlib: true
 ---
-
-{% include header.html %}
 
 This post is a test of using external Javascript code in Jekyll-based Github pages.&nbsp;  As such, credit is due before I even begin.&nbsp; 
 Specifically, this material has been shamelessly copied from a similar post by [Emma Tosch](http://blog.emmatosch.com/2016/03/09/using-custom-javascript-in-jekyll-blogs.html).&nbsp; 
