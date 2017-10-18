@@ -5,6 +5,8 @@ add_brython:        true
 add_brython_stdlib: true
 ---
 
+{% include header.html %}
+
 This post is a test of using external Javascript code in Jekyll-based Github pages.&nbsp;  As such, credit is due before I even begin.&nbsp; 
 Specifically, this material has been shamelessly copied from a similar post by [Emma Tosch](http://blog.emmatosch.com/2016/03/09/using-custom-javascript-in-jekyll-blogs.html).&nbsp; 
 Thanks to her for the insights
@@ -26,9 +28,11 @@ If you create a directory under the *_includes* directory for this, your specifi
  
 (4) Modify the content of *_layout/post.html* to load the desired Javascript script files.&nbsp; A good way to do this would be to add the following to the end of the layout:
 
+```
         {% for js in page.my_js_code %}
             <script type="text/javascript">{% include {{ js }} %}</script>
         {% endfor %}
+```
  
 NOTE
 
@@ -40,9 +44,10 @@ A good way to solve this problem is to, first, add a variable into the page's fr
 
 then, "fence in" the lines from Step #1, like this:
 
+```
         {% if page.load_vis %}
             <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.15.0/vis.min.js" type="text/javascript"></script>
         {% endif %}
-         
+```         
 This way, the inclusion of this Javascript link in the final rendering is performed according to the setting of this variable.&nbsp; 
 If the variable is absent, (or set to *false*), the link is not included.
