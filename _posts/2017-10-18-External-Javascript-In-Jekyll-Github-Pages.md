@@ -1,8 +1,8 @@
 ---
-layout: "post"
-title:  "External Javascript in Jekyll-based Github Pages"
-brython: true
-brython_stdlib: true
+layout:             "post"
+title:              "External Javascript in Jekyll-based Github Pages"
+add_brython:        true
+add_brython_stdlib: true
 ---
 
 This post is a test of using external Javascript code in Jekyll-based Github pages.&nbsp;  As such, credit is due before I even begin.&nbsp; 
