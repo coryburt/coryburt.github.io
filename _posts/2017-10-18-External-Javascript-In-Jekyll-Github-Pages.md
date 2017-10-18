@@ -1,8 +1,8 @@
 ---
 layout:             "post"
 title:              "External Javascript in Jekyll-based Github Pages"
-add_brython:        true
-add_brython_stdlib: true
+add_brython:        "true"
+add_brython_stdlib: "true"
 ---
 
 {% include header.html %}
