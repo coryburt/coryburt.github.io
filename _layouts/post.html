@@ -7,3 +7,9 @@ layout: default
 <div class="post">
   {{ content }}
 </div>
+
+{% for code in page.all_my_code %}
+    <script type="text/javascript">
+        {% include {{ code }} %}
+    </script>
+{% endfor %}
