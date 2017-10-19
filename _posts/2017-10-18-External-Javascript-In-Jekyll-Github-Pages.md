@@ -3,10 +3,8 @@ layout:             "post"
 title:              "External Javascript in Jekyll-based Github Pages"
 add_brython:        "/assets/js/brython.js"
 add_brython_stdlib: "/assets/js/brython_stdlib.js"
-footer_code:
-  - "/proj/piechare/piechart.html"
-all_my_py_code:
-  - "/proj/piechart/piechart.py"
+footer_code:        "/proj/piechare/piechart.html"
+all_my_py_code:     "/proj/piechart/piechart.py"
 ---
 
 This post is a test of using external Javascript code in Jekyll-based Github pages.&nbsp;  As such, credit is due before I even begin.&nbsp; 
