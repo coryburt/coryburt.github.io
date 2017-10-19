@@ -38,7 +38,7 @@ directive in the the HEAD section of *_layouts/default.html*.
 
     {% raw %}
         {% for js in page.my_js_code %}
-            <script type="text/javascript">{% include {{ js }} %}</script>
+            <script type="text/javascript">{% include_relative {{ js }} %}</script>
         {% endfor %}
     {% endraw %}
 

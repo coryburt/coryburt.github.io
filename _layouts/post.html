@@ -10,12 +10,12 @@ layout: default
 
 {% for code in page.all_my_js_code %}
     <script type="text/javascript">
-        {% include {{ code }} %}
+        {% include_relative {{ code }} %}
     </script>
 {% endfor %}
 
 {% for code in page.all_my_py_code %}
     <script type="text/python">
-        {% include {{ code }} %}
+        {% include_relative {{ code }} %}
     </script>
 {% endfor %}
