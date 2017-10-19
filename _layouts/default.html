@@ -18,7 +18,11 @@
     {% include header.html %}
 
   </head>
+  {% if page.add_brython %}
+  <body onload="brython()">
+  {% else %}
   <body>
+  {% endif %}
     <div class="wrapper">
       <header>
         <h1 class="header">Mental<br />Wanderer</h1>
