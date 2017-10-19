@@ -3,7 +3,7 @@ layout:             "post"
 title:              "External Javascript in Jekyll-based Github Pages"
 add_brython:        "/assets/js/brython.js"
 add_brython_stdlib: "/assets/js/brython_stdlib.js"
-footer_code:        "/proj/piechare/piechart.html"
+footer_code:        "/proj/piechart/piechart.html"
 all_my_py_code:     "/proj/piechart/piechart.py"
 ---
 
