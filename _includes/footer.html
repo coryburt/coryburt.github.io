@@ -1,6 +1,5 @@
+<!-- footer code below... -->
 {% for code in page.footer_code %}
-    {% include_relative {{ code }} %}
+    {% include {{ code }} %}
 {% endfor %}
 
-<!-- footer code below... -->
-{% include_relative {{ page.footer_code }} %}
