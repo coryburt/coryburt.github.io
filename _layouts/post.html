@@ -14,8 +14,10 @@ layout: default
     </script>
 {% endfor %}
 
+{% if page.add_brython %}
 {% for code in page.all_my_py_code %}
 <script type="text/python">
 {% include {{ code }} %}
 </script>
 {% endfor %}
+{% endif %}
