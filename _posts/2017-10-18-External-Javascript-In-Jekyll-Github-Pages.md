@@ -3,6 +3,8 @@ layout:             "post"
 title:              "External Javascript in Jekyll-based Github Pages"
 add_brython:        "/assets/js/brython.js"
 add_brython_stdlib: "/assets/js/brython_stdlib.js"
+all_my_py_code:
+  - "/proj/brython-piechart/pie_chart.py"
 ---
 
 This post is a test of using external Javascript code in Jekyll-based Github pages.&nbsp;  As such, credit is due before I even begin.&nbsp; 
@@ -58,3 +60,20 @@ then, "fence in" the lines from Step #1, like this:
 
 This way, the inclusion of this Javascript link in the final rendering is performed according to the setting of this variable.&nbsp; 
 If the variable is absent, (or set to *false*), the link is not included.
+
+<h1>SVG pie chart</h1>
+<p>
+
+<table>
+<tr>
+<td id="data"></td>
+<td>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+    width="400" height="300" style="border-style:solid;border-width:1;border-color:#000;">
+  <g id="panel">
+  </g>
+</svg>
+</td>
+</tr>
+</table>
+
