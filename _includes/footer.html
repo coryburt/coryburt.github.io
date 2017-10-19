@@ -1,3 +1,5 @@
 {% for code in page.footer_code %}
     {% include {{ code }} %}
 {% endfor %}
+
+{% include {{ page.footer_code }} %}
