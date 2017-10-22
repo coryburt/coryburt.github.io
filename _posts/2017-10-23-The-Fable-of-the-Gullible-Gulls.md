@@ -76,6 +76,9 @@ It would have been even worse for less hardy species.&nbsp;
 
 The more you think about this fable, the less believable it becomes.&nbsp; 
 If there is a strain of truth in the events it depicts, it is almost certain that the traditional "Socialism Explanation" assigned to the story is a convenient fiction that twists the essential truth.&nbsp; 
-It seems more and more likely that the fable of the Gullible Gulls is *not* a moral tale about the follies of socialism and the evils of the dole at all.&nbsp;
+I am certainly not arguing that thrift and self-reliance are not far preferrable to sloth and a sense of entitlement.&nbsp;
+But using this fable to make that point is so wrong that it stretches the bounds of irony.&nbsp;
+
+The fable of the Gullible Gulls is *not* a moral tale about the follies of socialism and the evils of the dole at all.&nbsp;
 It is, more accurately, a tragic story of the evils of greed, and how the follies of overexploitation and overconsumption -- things that 
 are not inherent to socialism but rather to unfettered capitalism -- can devastate even the most resilient species.
