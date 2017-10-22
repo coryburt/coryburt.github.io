@@ -81,4 +81,4 @@ But using this fable to make that point is so wrong that it stretches the bounds
 
 The fable of the Gullible Gulls is *not* a moral tale about the follies of socialism and the evils of the dole at all.&nbsp;
 It is, more accurately, a tragic story of the evils of greed, and how the follies of overexploitation and overconsumption -- things that 
-are not inherent to socialism but rather to unfettered capitalism -- can devastate even the most resilient species.
+are not inherent to socialism but rather to unfettered capitalism -- can devastate even the most resilient species... Including us.
