@@ -77,6 +77,7 @@ It would have been even worse for less hardy species.&nbsp;
 If there is a strain of truth in the events the fable depicts, it is almost certain that the traditional "Socialism Explanation" assigned to the story is a deliberate misinterpretation that dodges the actual truth -- and unfairly maligns the poor seagull.&nbsp; 
 It may well be true that the dole is a degrading and corrupting influence on some human beings, but to impute such an ugly moral deficiency to 
 the poor seagull is just mean-spirited.&nbsp; 
+Moreover, it is absurd to think that "the welfare state" has some "supernatural corrupting power" that befouls any living thing it touches, (again, no pun intended).&nbsp; 
 I am certainly not suggesting that thrift and self-reliance are not preferrable to sloth and a sense of entitlement.&nbsp;
 But, using Cold War anti-Communist propaganda to make that point is so far wrong that it insults both humans and seagulls.&nbsp;
 
