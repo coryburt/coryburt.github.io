@@ -52,7 +52,7 @@ Only a conscious choice to surrender to shiftless indolence could explain it.&nb
 Gulls are surprisingly smart birds -- but they can't possibly be *that* smart.&nbsp; 
 It simply makes no sense that hunger unto starvation wasn't enough to jolt them out of their "welfare state of mind" and into self-preservation mode.
 
-The more questions I wondered about, more the story's facade began to crumble off.
+The more questions I asked, the more the story's facade began to crumble off.
 
 The next question is how did the seagulls *really* view their situation.&nbsp; 
 Did they understand that the shrimping boats weren't a natural phenomenon, 
