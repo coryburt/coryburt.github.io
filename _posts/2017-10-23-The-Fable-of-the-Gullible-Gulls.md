@@ -15,10 +15,10 @@ It is further asserted that they had never taught their offspring to fish, so th
 Why, I'm sure you're wondering, would I devote a blog entry to an odd story from an issue of Reader's Digest that is, as of the month of this entry, 67 years old.&nbsp;
 Well, it turns out this little anecdote -- which is really nothing more than a Cold-war anti-Communist 
 trope -- has managed to strike a chord that keeps reverberating through the years.&nbsp; 
-It has been repeated and become the basis for numerous variations ever since.&nbsp; 
+It has been oft-repeated and has become the basis for numerous variations ever since.&nbsp; 
 It has even become the inspiration for misogynistic and paranoid scare-stories; 
 but it is usually rolled out as a Just-So-Story about the follies of socialism and the horrors of the dole.&nbsp; 
-These retellings are always followed either by lurid warnings about Communist conspiracies, socialist decay, and the sad plight 
+These retellings are always followed by lurid warnings about Communist conspiracies, socialist decay, and the sad plight 
 of lay-abouts on welfare; or, it is linked to platitudes about the Protestant Work Ethic and a stern reminder that 
 the world doesn't owe you a living. 
 
@@ -41,7 +41,7 @@ The feeding habits of seagulls show, if nothing else, an incredible adaptability
 When the fishing is bad, they simply find a landfill or garbage heap to raid.&nbsp; 
 If an area becomes inhospitiable, they move on, (as the fishing fleet did).&nbsp; 
 With long narrow wings, they are -- like most sea-birds -- spectacular flyers, and known to travel amazingly long distances.&nbsp; 
-Did all the "free shrimp" suddenly render them flightless?&nbsp; 
+Did all the "free shrimp" suddenly render them dim-witted and flightless?&nbsp; 
 The truth is, the seagull is a veritable poster child for adaptability and hardy survival instincts.&nbsp; 
 The exact opposite of a stereotypical welfare slob.
 
