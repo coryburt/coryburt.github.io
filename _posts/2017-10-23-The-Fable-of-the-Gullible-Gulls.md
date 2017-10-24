@@ -19,8 +19,7 @@ It has been oft-repeated and has become the basis for numerous variations ever s
 It has even become the inspiration for misogynistic and paranoid scare-stories; 
 but it is usually rolled out as a Just-So-Story about the follies of socialism and the horrors of the dole.&nbsp; 
 These retellings are always followed by lurid warnings about Communist conspiracies, socialist decay, and the sad plight 
-of lay-abouts on welfare; or, it is linked to platitudes about the Protestant Work Ethic and a stern reminder that 
-the world doesn't owe you a living. 
+of lay-abouts on welfare; or, it is linked to platitudes about the Protestant Work Ethic and a stern reminder that the world doesn't owe you a living. 
 
 This fable is never interpreted as anything other than a clear warning about the dangers of the welfare state; it is generally accepted without question.&nbsp; 
 We are "attached" to this interpretation and the presumptive moral to the story because it just *feels* so obvious and right-headed.&nbsp; 
