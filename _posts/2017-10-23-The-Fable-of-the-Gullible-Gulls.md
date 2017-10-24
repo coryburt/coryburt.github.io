@@ -70,9 +70,9 @@ If that had occurred, they may have damaged the entire ecosystem of the area.&nb
 And, if *that* had occurred, it would certainly explain a lot of starvation among the gulls.&nbsp;
 It would have been even worse for less hardy species.&nbsp;
 
-The question that is really drawn out by the far-fetched interpretation of the story is this: what -- *really* -- is the dreaded "welfare state," and does it have the magical power to sully the otherwise noble character of anyone, (even a bird), who lives under its "poisonous" influence?&nbsp;
+The question that is really drawn out by the over-cooked interpretation of the story is this: what -- *really* -- is the dreaded "welfare state," and does it have the magical power to sully the character of anyone, (even a bird), who lives under its "poisonous" influence?&nbsp;
 I am certainly not suggesting that thrift and self-reliance are not preferrable to sloth and a sense of entitlement; and it may well be true that the dole can have a degrading and corrupting influence on human beings who already lack moral backbone.&nbsp; But, to impute such an ugly character weakness to any non-human species is just mean-spirited.
 
-Once honestly questioned, it turns out that the "Socialist Interpretation" of the Fable of the Gullible Gulls is just too outrageous to be taken seriously -- no matter how much of the underlying story is actually true.&nbsp;
+Once honestly questioned, it turns out that the "Socialist Interpretation" of seagull behavior in this fable is just too far-fetched to be taken seriously -- no matter how much of the underlying story is actually true.&nbsp;
 Ironically, it is, more accurately, a tragic story of the evils of greed, and how the follies of overexploitation and overconsumption -- things that 
 are not inherent to socialism but rather to unfettered capitalism -- can devastate even the most resilient species... Including us.
