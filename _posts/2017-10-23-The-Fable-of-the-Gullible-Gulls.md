@@ -22,8 +22,8 @@ These retellings are always followed by lurid warnings about Communist conspirac
 of lay-abouts on welfare; or, it is linked to platitudes about the Protestant Work Ethic and a stern reminder that 
 the world doesn't owe you a living. 
 
-The interpretation of this fable as a clear warning to all about the dangers of the welfare state is widely accepted at face value.&nbsp; 
-We are "attached" to this interpretation and the presumptive moral to the story that seems so obvious and right-headed.&nbsp; 
+This fable is never interpreted as anything other than a clear warning about the dangers of the welfare state; it is generally accepted without question.&nbsp; 
+We are "attached" to this interpretation and the presumptive moral to the story because it just *feels* so obvious and right-headed.&nbsp; 
 However, I'm writing about it now because this fable has always left me with an uneasy feeling.&nbsp;
 Like most people, I've listened to it and nodded my head in blank agreement with the moral conclusions tacked on to the end.&nbsp; 
 But, I could never shake the nagging sensation that untrustworthy propaganda is lurking below the surface.&nbsp;
