@@ -15,15 +15,14 @@ It is further asserted that they had never taught their offspring to fish, so th
 Why, I'm sure you're wondering, would I devote a blog entry to an odd story from an issue of Reader's Digest that is, as of the month of this entry, 67 years old.&nbsp;
 Well, it turns out this little anecdote -- which is really nothing more than a Cold-war anti-Communist 
 trope -- has managed to strike a chord that keeps reverberating through the years.&nbsp; 
-It has been repeated and become the basis for numerous variations ever since.&nbsp; 
+It has been oft-repeated and has become the basis for numerous variations ever since.&nbsp; 
 It has even become the inspiration for misogynistic and paranoid scare-stories; 
 but it is usually rolled out as a Just-So-Story about the follies of socialism and the horrors of the dole.&nbsp; 
-These retellings are always followed either by lurid warnings about Communist conspiracies, socialist decay, and the sad plight 
-of lay-abouts on welfare; or, it is linked to platitudes about the Protestant Work Ethic and a stern reminder that 
-the world doesn't owe you a living. 
+These retellings are always followed by lurid warnings about Communist conspiracies, socialist decay, and the sad plight 
+of lay-abouts on welfare; or, it is linked to platitudes about the Protestant Work Ethic and a stern reminder that the world doesn't owe you a living. 
 
-The interpretation of this fable as a clear warning to all about the dangers of the welfare state is widely accepted at face value.&nbsp; 
-We are "attached" to this interpretation and the presumptive moral to the story that seems so obvious and right-headed.&nbsp; 
+This fable is never interpreted as anything other than a clear warning about the dangers of the welfare state; it is generally accepted without question.&nbsp; 
+We are "attached" to this interpretation and the presumptive moral to the story because it just *feels* so obvious and right-headed.&nbsp; 
 However, I'm writing about it now because this fable has always left me with an uneasy feeling.&nbsp;
 Like most people, I've listened to it and nodded my head in blank agreement with the moral conclusions tacked on to the end.&nbsp; 
 But, I could never shake the nagging sensation that untrustworthy propaganda is lurking below the surface.&nbsp;
@@ -41,7 +40,7 @@ The feeding habits of seagulls show, if nothing else, an incredible adaptability
 When the fishing is bad, they simply find a landfill or garbage heap to raid.&nbsp; 
 If an area becomes inhospitiable, they move on, (as the fishing fleet did).&nbsp; 
 With long narrow wings, they are -- like most sea-birds -- spectacular flyers, and known to travel amazingly long distances.&nbsp; 
-Did all the "free shrimp" suddenly render them flightless?&nbsp; 
+Did all the "free shrimp" suddenly render them dim-witted and flightless?&nbsp; 
 The truth is, the seagull is a veritable poster child for adaptability and hardy survival instincts.&nbsp; 
 The exact opposite of a stereotypical welfare slob.
 
@@ -55,33 +54,24 @@ The more questions I asked, the more the story's facade began to crumble off.
 
 The next question is how did the seagulls *really* view their situation.&nbsp; 
 Did they understand that the shrimping boats weren't a natural phenomenon, 
-or did they see it as just a place where it was mysteriously easy to get a lot of shrimp.&nbsp; 
+or did they see it as just a place where it was mysteriously easy to get a lot of shrimp?&nbsp; 
 Specifically, did they *know* they were on welfare?&nbsp;
 The question answers itself when you put it that way: of course they didn't know it.&nbsp;
-To them, it was just a very fertile scavanging place; they were doing exactly what their natural inclinations led them to do: 
-take advantage of what "nature" was offering.&nbsp; 
-When the pickings grew thin, they would do what they always did when that happened: they would quickly wing it to some other location.&nbsp; 
-If this weren't the natural reaction, there would be mass die-offs of seagulls happening every other week.&nbsp;
-We would know them to be the stupidest and most helpless creatures ever to take wing.&nbsp;
-In fact, they would, almost certainly, be extinct by now.&nbsp;
+To them, it was just a very fertile scavanging place; they were doing exactly what their natural inclinations led them to do: take advantage of what "nature" was offering.&nbsp; 
+When the pickings grew thin, they would do what they always did when that happened: quickly wing it to some other location.&nbsp; 
+If this weren't the natural reaction, there would be mass die-offs of seagulls happening with frightening regularity.&nbsp; (Such die-offs are, in fact, happening, but it has nothing to do with profligate fishermen or the evils of the dole).
 
 And what about this business of the fishing fleet "moving on?"&nbsp; 
 If it had moved to other fishing grounds, why wouldn't the gulls have simply followed it there?&nbsp; 
-It seems likely that, when the shrimp had been "fished-out," the shrimp boats were simply sold-off or abandoned in place.&nbsp;
-The most obvious explanation is that, whatever happened to the fleet, it was suffering the consequences of its own poor conservation practices.&nbsp;
-Whether they "moved on" or went out of business, it is likely that severe overfishing left the area unprofitable.&nbsp;
+The most obvious explanation for the disappearence of the shrimping fleet is that it was suffering the consequences of its own poor conservation practices.&nbsp;
+Whether they "moved on" or abandoned the business, it is likely that overfishing left it unprofitable.&nbsp;
 If that had occurred, they may have damaged the entire ecosystem of the area.&nbsp; 
 And, if *that* had occurred, it would certainly explain a lot of starvation among the gulls.&nbsp;
 It would have been even worse for less hardy species.&nbsp;
 
-If there is a strain of truth in the events the fable depicts, it is almost certain that the traditional "Socialism Explanation" assigned to the story is a deliberate misinterpretation that dodges the actual truth -- and unfairly maligns the poor seagull.&nbsp; 
-It may well be true that the dole is a degrading and corrupting influence on some human beings, but to impute such an ugly moral deficiency to 
-the poor seagull is just mean-spirited.&nbsp; 
-Moreover, it is absurd to think that "the welfare state" has some "supernatural corrupting power" that befouls any living thing it touches, (again, no pun intended).&nbsp; 
-I am certainly not suggesting that thrift and self-reliance are not preferrable to sloth and a sense of entitlement.&nbsp;
-But, using Cold War anti-Communist propaganda to make that point is so far wrong that it insults both humans and seagulls.&nbsp;
+The question that is really drawn out by the over-cooked interpretation of the story is this: what -- *really* -- is the dreaded "welfare state," and does it have the magical power to sully the character of anyone, (even a bird), who lives under its "poisonous" influence?&nbsp;
+I am certainly not suggesting that thrift and self-reliance are not preferrable to sloth and a sense of entitlement; and it may well be true that the dole can have a degrading and corrupting influence on human beings who already lack moral backbone.&nbsp; But, to impute such an ugly character weakness to any non-human species is just mean-spirited.
 
-Once honestly questioned, it turns out that the Fable of the Gullible Gulls is *not* a moral tale about the follies of socialism 
-and the evils of the dole.&nbsp;
-It is, more accurately, a tragic story of the evils of greed, and how the follies of overexploitation and overconsumption -- things that 
+Once honestly questioned, it turns out that the "Socialist Interpretation" of seagull behavior in this fable is just too far-fetched to be taken seriously -- no matter how much of the underlying story is actually true.&nbsp;
+Ironically, it is, more accurately, a tragic story of the evils of greed, and how the follies of overexploitation and overconsumption -- things that 
 are not inherent to socialism but rather to unfettered capitalism -- can devastate even the most resilient species... Including us.
