@@ -3,3 +3,6 @@ _plugins/
 Gemfile
 Gemfile.lock
 .sass-cache/
+.idea
+coryburt.github.io.iml
+
