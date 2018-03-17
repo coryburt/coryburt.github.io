@@ -61,7 +61,9 @@ Any guesses as to what the output of this _print_ statement will be?&nbsp; How a
       {'Bob': 'Carol', 'Ted': 'Alice'}, 
       {'Bob': 'Carol', 'Ted': 'Alice'}]]
 ```
-Now are you gobsmacked?&nbsp; The reason all this stuff showed up is that, when you "replicated" the _y_ three times in the inner list, you didn't create *copies* or *clones* of the original dictionary, you simply got copies of **a reference to _y_** each time &ndash; 
+Now are you gobsmacked?&nbsp; Try to not step on the detonator of that landmine.&nbsp;
+The reason all this stuff showed up is that, when you "replicated" the _y_ three times in the inner list, 
+you didn't create *copies* or *clones* of the original dictionary, you simply got copies of **a reference to _y_** each time &ndash; 
 three times in the inner list, which was then, itself, replicated twice in the outer list.&nbsp; 
 Change _y_ after the assigment to _x_, and _x_ will dutifully reflect that change in each of its neatly nested references.&nbsp;
 
