@@ -117,4 +117,4 @@ This time, you get the following output:
     []
     ['Your Bars: ', 'The Bamboo Lounge']
 ```
-Which is a more reasonable and correct output &ndash; and even works with a list or a plain string.
+Still not entirely bulletproof, but does give a more reasonable and correct output &ndash; and even works with a list or a plain string.
