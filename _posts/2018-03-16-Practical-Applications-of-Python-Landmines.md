@@ -33,7 +33,7 @@ Put this in your favorite REPL, (or IDLE, if you must), and observe what the _pr
 ```
 I you're really new to Python, you have to be gobsmacked by this.&nbsp;  If you have programmed in another language, you might recognize what's happening here.&nbsp; The asterisk operator in Python has three secret identities; in this case, it acts as a "replicator" that causes the assignment of more than one of whatever is on the right-side of the equation.&nbsp; In the case above, the "thing" on the right side that gets replicated is **the content** of a list.&nbsp; You still get only one list, but it's contents are magically replicated -- in this case, twice.&nbsp; Go figure.&nbsp; If you still think Python's syntax is simple and easy to learn, I suggest you have your intuition patented before Microsoft finds it.
 
-If you're really paying attention, I can hear you object that there is also a _\*3_ in there somewhere.&nbsp; Doesn't that also act as a replicator?&nbsp; I don't see _three_ of anything.&nbsp; The answer is "yes, but calm down and don't get ahead of me."&nbsp; Consider this modification to the above code:
+If you're really paying attention, I can hear you object that there is also a _\*3_ in there somewhere.&nbsp; Doesn't that also act as a replicator?&nbsp; We're not seeing _three_ of anything.&nbsp; The answer is "yes, it is but calm down and don't get ahead of me."&nbsp; Consider this modification to the above code:
 
 ```python
     y = {'Bob':'Carol'}
@@ -42,14 +42,16 @@ If you're really paying attention, I can hear you object that there is also a _\
 ```
 If you guessed the output of this would be:
 ```python
-    [[{'Bob': 'Carol'}, {'Bob': 'Carol'}, {'Bob': 'Carol'}], [{'Bob': 'Carol'}, {'Bob': 'Carol'}, {'Bob': 'Carol'}]]
+    [[{'Bob': 'Carol'}, {'Bob': 'Carol'}, {'Bob': 'Carol'}], 
+	[{'Bob': 'Carol'}, {'Bob': 'Carol'}, {'Bob': 'Carol'}]]
 ```
-Then you are a natural, on you way to Pythonista-hood.&nbsp; Your _\*3_ has made it's presence known!&nbsp; Hold on, however, there's more.&nbsp; What if we add Ted and Alice to the dict that is _y_?
+Then you are a natural, on your way to Pythonista-hood.&nbsp; Your _\*3_ has made it's presence known!&nbsp; Hold on, however, there's more.&nbsp; What if we add Ted and Alice to the dict that is _y_?
 
 ```python
     y['Ted'] = 'Alice'
     print(x)
 ```
+Note that we haven't added anything else in the REPL &ndash; just the new assignment to the dict in _y_.&nbsp;
 Any guesses as to what the output of this _print_ statement will be?&nbsp; How about:
 ```python
     [[{'Bob': 'Carol', 'Ted': 'Alice'}, 
@@ -59,6 +61,10 @@ Any guesses as to what the output of this _print_ statement will be?&nbsp; How a
       {'Bob': 'Carol', 'Ted': 'Alice'}, 
       {'Bob': 'Carol', 'Ted': 'Alice'}]]
 ```
-Now are you gobsmacked?&nbsp; The answer here is that, when you "replicated" the _y_ three times in the inner list, you didn't create *copies* or *clones* of the original dictionary, you simply got copies of **a reference to _y_** each time &ndash; three times in inner list, which was then replicated itself &ndash; twice &ndash; in the outer list.&nbsp; Change _y_ after the assigment to _x_, and _x_ will dutifully reflect that change in each of its neatly nested references.&nbsp; Totally obvious, right?
+Now are you gobsmacked?&nbsp; The reason all this stuff showed up is that, when you "replicated" the _y_ three times in the inner list, you didn't create *copies* or *clones* of the original dictionary, you simply got copies of **a reference to _y_** each time &ndash; 
+three times in the inner list, which was then, itself, replicated twice in the outer list.&nbsp; 
+Change _y_ after the assigment to _x_, and _x_ will dutifully reflect that change in each of its neatly nested references.&nbsp;
+
+Totally obvious, right?
 
 
