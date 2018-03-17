@@ -2,7 +2,6 @@
 layout: "post"
 title: "Practical Applications of Python Landmines"
 ---
-## The Practical Application of Python Landmines
 
 Before you get your hair in the air, this isn't about snakes with explosive devices strapped to their slithery hides.&nbsp; It's about the Python programming language.&nbsp; (And it isn't meant to push buttons at the NSA whose robots have already flagged the words "explosives" and "landmines" before you even got this far into the article; no harm intended here, and my apologies, but it cannot be helped).
 
