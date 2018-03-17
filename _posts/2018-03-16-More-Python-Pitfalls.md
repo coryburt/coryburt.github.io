@@ -76,5 +76,45 @@ If you're trying to debug a program's bizarre behavior caused by this, the resul
 
 Just sayin'
 
+### So, What To Do?
 
-
+As with all landmines, the best advice is *"Just Don't Step On Them!"*&nbsp; If you must have a _list_bars_ function like this one, it is best to add some internal testing, 
+or take advantage of "duck typing" and wrap your "append" action in a "try/except" block.&nbsp; 
+In any case, do *NOT* make the default parameter a mutable variable that "jumps scope."&nbsp;
+Something like this, for example:
+```python
+    def list_bars(bar=None):
+        results = []
+        if bar is not None:
+            results.append(bar)
+        if len(results) > 0:
+            results.insert(0, 'Your Bars: ')
+        return(results)
+```
+Now, ply this with the same series of calls:
+```python
+    print( list_bars() )
+    print( list_bars() )
+    print( list_bars() )
+    print( list_bars(["The Green Dragon"]) )
+    print( list_bars() )
+    print( list_bars() )
+    print( list_bars(["The Winchester", "The Slaughtered Lamb"]) )
+    print( list_bars() )
+    print( list_bars() )
+    print( list_bars('The Bamboo Lounge') )
+```
+This time, you get the following output:
+```python
+    []
+    []
+    []
+    ['Your Bars: ', ['The Green Dragon']]
+    []
+    []
+    ['Your Bars: ', ['The Winchester', 'The Slaughtered Lamb']]
+    []
+    []
+    ['Your Bars: ', 'The Bamboo Lounge']
+```
+Which is a more reasonable and correct output &ndash; and even works with a list or a plain string.
