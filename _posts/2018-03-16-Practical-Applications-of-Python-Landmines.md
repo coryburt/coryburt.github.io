@@ -44,13 +44,13 @@ If you guessed the output of this would be:
     [[{'Bob': 'Carol'}, {'Bob': 'Carol'}, {'Bob': 'Carol'}], 
 	[{'Bob': 'Carol'}, {'Bob': 'Carol'}, {'Bob': 'Carol'}]]
 ```
-Then you are a natural, on your way to Pythonista-hood.&nbsp; Your _\*3_ has made it's presence known!&nbsp; Hold on, however, there's more.&nbsp; What if we add Ted and Alice to the dict that is _y_?
+Then you are a natural, on your way to Pythonista-hood.&nbsp; Your _\*3_ has made it's presence known!&nbsp; Hold on, however, there's more.&nbsp; What if we add Ted and Alice to the dict represented by _y_?
 
 ```python
     y['Ted'] = 'Alice'
     print(x)
 ```
-Note that we haven't added anything else in the REPL &ndash; just the new assignment to the dict in _y_.&nbsp;
+Note that we haven't added anything else in the REPL &ndash; we just added a new key-value pair to the dict in _y_.&nbsp;
 Any guesses as to what the output of this _print_ statement will be?&nbsp; How about:
 ```python
     [[{'Bob': 'Carol', 'Ted': 'Alice'}, 
