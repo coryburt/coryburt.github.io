@@ -121,7 +121,7 @@ This time, you get the following output:
 Still not entirely bulletproof, but does give a more reasonable and correct output &ndash; and even works with a list or a plain string.&nbsp;
 If "plain string" is not to be permitted, you might simply include further test criteria, like so:
 ```python
-    def show_bars(bar=None):
+    def list_bars(bar=None):
         results = []
         if bar is not None and isinstance(bar, list):
             results.append(bar)
