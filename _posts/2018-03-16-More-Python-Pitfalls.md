@@ -149,7 +149,7 @@ a KISS-able approach.&nbsp; Perhaps this:
             accumulator.append(new_bars)
         return(accumulator)
 ```
-This code ignores anything that isn't a list or string, (rather than raise an exception, which is always an option &ndash; and preferrable if is important
+This code ignores anything that isn't a list or string, (rather than raise an exception, which is always an option &ndash; and preferrable if it's important
 that the program chokes on data errors).&nbsp; It also has the added benefit/side-effect of flattening the accumulated list.&nbsp; 
 If plied with the following:
 ```python
