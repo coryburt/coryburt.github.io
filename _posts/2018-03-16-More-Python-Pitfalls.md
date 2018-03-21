@@ -130,3 +130,44 @@ If "plain string" is not to be permitted, you might simply include further test 
         return(results)
 ```
 Whereupon you get only an empty list if the parameter is not an instance of a list, (which might be cause to raise an exception... or not... fielders choice).
+
+You might look at this and wonder what good this code is in any reasonable use-case.&nbsp; (I would remind you that, when considering 
+escoteric programming code and exploring its behavior, such practical considerations are snobbishly derided as being "beside the point," but
+I digress...).&nbsp; In truth, you might be thinking of such code as an "accumulator" of things &ndash; in this case, bars.&nbsp;
+
+To that end, a thoroughly modern programmer moght start thinking of objects with getters and setters.&nbsp; I forgive you for immediately digressing
+down that rabbit-hole, but, if you're really trying to do a basic job of work and not re-write all the control systems for the Space Shuttle, I suggest
+a KISS-able approach.&nbsp; Perhaps this:
+```python
+    def accumulate_bars(new_bars=[], accumulator=[]):
+        if len(accumulator) == 0:
+            accumulator.insert(0, 'Your Bars: ')
+        if isinstance(new_bars, list) and len(new_bars) > 0:
+            for b in new_bars:
+                accumulator.append(b)
+        elif isinstance(new_bars, str):
+            accumulator.append(new_bars)
+        return(accumulator)
+```
+This code ignores anything that isn't a list or string, (rather than raise an exception, which is always and option &ndash; and preferrable if is important
+that the program chokes on data errors).&nbsp; It also has the added benefit/side-effect of flattening the accumulated list.&nbsp; 
+If plied with the following:
+```python
+    print( accumulate_bars(None) )
+    print( accumulate_bars() )
+    print( accumulate_bars(["The Green Dragon"] ) )
+    print( accumulate_bars(["The Winchester", "The Slaughtered Lamb"] ) )
+    print( accumulate_bars("Bob's Country Bunker") )
+    print( accumulate_bars([]) )
+```
+The result looks like this:
+```python
+    ['Your Bars: ']
+    ['Your Bars: ']
+    ['Your Bars: ', 'The Green Dragon']
+    ['Your Bars: ', 'The Green Dragon', 'The Winchester', 'The Slaughtered Lamb']
+    ['Your Bars: ', 'The Green Dragon', 'The Winchester', 'The Slaughtered Lamb', "Bob's Country Bunker"]
+    ['Your Bars: ', 'The Green Dragon', 'The Winchester', 'The Slaughtered Lamb', "Bob's Country Bunker"]
+```
+Note that the "for-loop" in there could replaced with a list comprehension &ndash; or even a powerful obfustication using "reduce," or something from "itertools.chain" &ndash; 
+but that begs a whole new question about Python pitfalls... when should you _really_ go there?
