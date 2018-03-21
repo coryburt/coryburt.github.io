@@ -6,9 +6,10 @@ title: "More Python Pitfalls"
 
 Most Python programmers figure this one out fairly early in the game, but, if you don't learn the language from an expert &ndash; 
 or have the patience to methodically work through a _good_ text &ndash; you end up deep into the weeds before running afoul of this one.&nbsp; 
-The basis for this problem is the combination of Python's useful &ndash; and very necessary &ndash; feature wherein functions can be defined 
-with default values for their arguments.&nbsp; The fact that these default values can be mutable values, and the way these mutable 
-values are scoped, is where the mystery takes shape.&nbsp; Why and how this is a problem is best illustrated with a basic example.&nbsp; Consider this code:
+The basis for this problem is Python's useful &ndash; and very necessary &ndash; feature wherein functions can be defined 
+with default values for their arguments, and what happens when the rules of Python variable scoping are applied to them.&nbsp; 
+The mystery takes shape when parameters are given defaults that are _mutable_ values.&nbsp; 
+Why and how this is a problem is best illustrated with a basic example.&nbsp; Consider this code:
 
 ```python
     def list_bars(bar=[]):
