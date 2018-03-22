@@ -172,7 +172,7 @@ The result looks like this:
     ['Your Bars: ', 'The Green Dragon', 'The Winchester', 'The Slaughtered Lamb', "Bob's Country Bunker"]
 ```
 Note: the "accumulator" parameter _must_ be the second parameter and _must_ have a default value of the empty string.&nbsp;
-Nothing should be passed-in to the second parameter, (in this case); the initial call to create the implicit list that will populated by subsequent calls.&nbsp;
+Nothing should be passed-in to the second parameter, (in this case); the initial call will create the implicit list that will populated by subsequent calls.&nbsp;
 So, we're now taking advantage of this scoping pitfall; having a mutable value for a default is useful here.&nbsp;
 
 Interestingly, this code now makes it possible to have multiple "accumulators;" 
