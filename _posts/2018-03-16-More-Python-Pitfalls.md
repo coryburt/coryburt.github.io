@@ -176,7 +176,7 @@ Nothing should be passed-in to the second parameter, (in this case); the initial
 So, we're now taking advantage of this scoping pitfall; having a mutable value for a default is useful here.&nbsp;
 
 Interestingly, this code now makes it possible to have multiple "accumulators;" 
-you simply define an empty list for one in the calling code and add it as the second parameter in the call to _accumulate_bars_.&nbsp; 
+you simply define a list for one in the calling code, (it must already exist before the first call), and add it as the second parameter in the call to _accumulate_bars_.&nbsp; 
 Consider this sequence of calls to _accumulate_bars_:
 ```python
     print( accumulate_bars() )
