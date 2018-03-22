@@ -171,12 +171,13 @@ The result looks like this:
     ['Your Bars: ', 'The Green Dragon', 'The Winchester', 'The Slaughtered Lamb', "Bob's Country Bunker"]
     ['Your Bars: ', 'The Green Dragon', 'The Winchester', 'The Slaughtered Lamb', "Bob's Country Bunker"]
 ```
-Note: the "accumulator" parameter _must_ have a default value of the empty string in this case, and nothing
-should be passed in; this will cause the first call to create the implicit list that will populated by subsequent calls.&nbsp;
+Note: the "accumulator" parameter _must_ be the second parameter and _must_ have a default value of the empty string.&nbsp;
+Nothing should be passed-in to the second parameter, (in this case); the initial call to create the implicit list that will populated by subsequent calls.&nbsp;
 So, we're now taking advantage of this scoping pitfall; having a mutable value for a default is useful here.&nbsp;
 
-This code makes it possible to have multiple "accumulators;" you simply define an empty list for one in the calling code and add it as the
-second parameter in the call to _accumulate_bars_.&nbsp; Consider this sequence of calls to _accumulate_bars_:
+Interestingly, this code now makes it possible to have multiple "accumulators;" 
+you simply define an empty list for one in the calling code and add it as the second parameter in the call to _accumulate_bars_.&nbsp; 
+Consider this sequence of calls to _accumulate_bars_:
 ```python
     print( accumulate_bars() )
     print( accumulate_bars(["The Green Dragon", 'Bob\'s Country Bunker'] ) )
