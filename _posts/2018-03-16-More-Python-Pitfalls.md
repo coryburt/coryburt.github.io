@@ -133,8 +133,8 @@ Whereupon you get only an empty list if the parameter is not an instance of a li
 
 ## Is This A "Ginned-up" Example?
 
-You might look at this and wonder what good this code is in any reasonable use-case.&nbsp; (I would remind you that, when considering 
-escoteric programming code and exploring its behavior, such practical considerations are snobbishly derided as being "beside the point," but
+You might look at this and wonder what good this code is in any reasonable use-case.&nbsp; I would remind you that, when considering 
+escoteric programming code and exploring its behavior, such practical considerations are snobbishly derided as being "beside the point," (but
 I digress...).&nbsp; In truth, you might be thinking of such code as an "accumulator" of things &ndash; in this case, bars.&nbsp;
 
 To that end, a thoroughly modern programmer might start thinking of objects with getters and setters.&nbsp; I forgive you for your eagerness to plunge 
