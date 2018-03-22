@@ -131,6 +131,8 @@ If "plain string" is not to be permitted, you might simply include further test 
 ```
 Whereupon you get only an empty list if the parameter is not an instance of a list, (which might be cause to raise an exception... or not... fielders choice).
 
+## Is This A "Ginned-up" Example?
+
 You might look at this and wonder what good this code is in any reasonable use-case.&nbsp; (I would remind you that, when considering 
 escoteric programming code and exploring its behavior, such practical considerations are snobbishly derided as being "beside the point," but
 I digress...).&nbsp; In truth, you might be thinking of such code as an "accumulator" of things &ndash; in this case, bars.&nbsp;
