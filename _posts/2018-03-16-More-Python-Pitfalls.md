@@ -171,6 +171,38 @@ The result looks like this:
     ['Your Bars: ', 'The Green Dragon', 'The Winchester', 'The Slaughtered Lamb', "Bob's Country Bunker"]
     ['Your Bars: ', 'The Green Dragon', 'The Winchester', 'The Slaughtered Lamb', "Bob's Country Bunker"]
 ```
-Note that the "for-loop" could be dispensed with if we don't care about flattening the list.&nbsp; 
+Noteworthy here is that the "accumulator" parameter _must_ have the default value of the empty string; it's actually useful here.&nbsp;
+It is also possible here to have several "accumulators;" you simply define an empty list for one in the calling code and add it as the
+second parameter in the call to _accumulate_bars_.&nbsp; Consider this sequence of calls to _accumulate_bars_:
+```python
+    print( accumulate_bars() )
+    print( accumulate_bars(["The Green Dragon", 'Bob\'s Country Bunker'] ) )
+    print( accumulate_bars(["The Winchester", "The Slaughtered Lamb"] ) )
+
+    joes_bars = ["Joe's Bars :"]
+
+    print( accumulate_bars(["The Korova Milk Bar"], joes_bars) )
+    print( accumulate_bars(["Rick's Cafe Americain", "Tree's Lounge"], joes_bars ))
+    print( accumulate_bars('The Bamboo Lounge', joes_bars ))
+
+    print( accumulate_bars() )
+
+    print( "joes bars = ", joes_bars )
+```
+The resulting output will look like this:
+```python
+    ['Your Bars: ']
+    ['Your Bars: ', 'The Green Dragon', "Bob's Country Bunker"]
+    ['Your Bars: ', 'The Green Dragon', "Bob's Country Bunker", 'The Winchester', 'The Slaughtered Lamb']
+    ["Joe's Bars: ", 'The Korova Milk Bar']
+    ["Joe's Bars: ", 'The Korova Milk Bar', "Rick's Cafe Americain", "Tree's Lounge"]
+    ["Joe's Bars: ", 'The Korova Milk Bar', "Rick's Cafe Americain", "Tree's Lounge", 'The Bamboo Lounge']
+    ['Your Bars: ', 'The Green Dragon', "Bob's Country Bunker", 'The Winchester', 'The Slaughtered Lamb']
+    joes bars =  ["Joe's Bars: ", 'The Korova Milk Bar', "Rick's Cafe Americain", "Tree's Lounge", 'The Bamboo Lounge']
+```
+Inter-mixing calls to _accumulate_bars_ with and without the second parameter did not cause the explicit accumulator 
+and "implicit" one to interfere with one another at all.&nbsp; Nice.
+
+Also, the "for-loop" could be dispensed with if we don't care about flattening the list.&nbsp; 
 As such, it could be replaced with a list comprehension &ndash; or even a powerful obfustication using "reduce," or something from "itertools.chain" &ndash; 
 but that begs a whole new question about obfustication being a language pitfall... when should you _really_ go there?
