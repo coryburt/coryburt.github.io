@@ -171,8 +171,11 @@ The result looks like this:
     ['Your Bars: ', 'The Green Dragon', 'The Winchester', 'The Slaughtered Lamb', "Bob's Country Bunker"]
     ['Your Bars: ', 'The Green Dragon', 'The Winchester', 'The Slaughtered Lamb', "Bob's Country Bunker"]
 ```
-Noteworthy here is that the "accumulator" parameter _must_ have the default value of the empty string; it's actually useful here.&nbsp;
-It is also possible here to have several "accumulators;" you simply define an empty list for one in the calling code and add it as the
+Note: the "accumulator" parameter _must_ have a default value of the empty string in this case, and nothing
+should be passed in; this will cause the first call to create the implicit list that will populated by subsequent calls.&nbsp;
+So, we're now taking advantage of this scoping pitfall; having a mutable value for a default is useful here.&nbsp;
+
+This code makes it possible to have multiple "accumulators;" you simply define an empty list for one in the calling code and add it as the
 second parameter in the call to _accumulate_bars_.&nbsp; Consider this sequence of calls to _accumulate_bars_:
 ```python
     print( accumulate_bars() )
@@ -201,7 +204,8 @@ The resulting output will look like this:
     joes bars =  ["Joe's Bars: ", 'The Korova Milk Bar', "Rick's Cafe Americain", "Tree's Lounge", 'The Bamboo Lounge']
 ```
 Inter-mixing calls to _accumulate_bars_ with and without the second parameter did not cause the explicit accumulator 
-and "implicit" one to interfere with one another at all.&nbsp; Nice.
+and "implicit" one to interfere with one another at all.&nbsp; Now we're on to something interesting &ndash; it just isn't obvious from
+the code, (which is the best definition of a language pitfall I can think of right now).
 
 Also, the "for-loop" could be dispensed with if we don't care about flattening the list.&nbsp; 
 As such, it could be replaced with a list comprehension &ndash; or even a powerful obfustication using "reduce," or something from "itertools.chain" &ndash; 
