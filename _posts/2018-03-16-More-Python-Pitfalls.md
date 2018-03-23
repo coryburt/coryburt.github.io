@@ -134,7 +134,7 @@ Whereupon you get only an empty list if the parameter is not an instance of a li
 ## Is This A "Ginned-up" Example?
 
 You might look at this and wonder what good this code is in any reasonable use-case.&nbsp; I would remind you that, when considering 
-escoteric programming code and exploring its behavior, such practical considerations are snobbishly derided as being "beside the point," (but
+esoteric programming code and exploring its behavior, such practical considerations would be snobbishly derided as being "beside the point," (but
 I digress...).&nbsp; In truth, you might be thinking of such code as an "accumulator" of things &ndash; in this case, bars.&nbsp;
 
 To that end, a thoroughly modern programmer might start thinking of objects with getters and setters.&nbsp; I forgive you for your eagerness to plunge 
@@ -151,7 +151,7 @@ a KISS-able approach.&nbsp; Perhaps this:
             accumulator.append(new_bars)
         return(accumulator)
 ```
-This code ignores anything that isn't a list or string, (rather than raise an exception, which is always an option &ndash; and preferrable if it's important
+This code ignores anything that isn't a list or string, (rather than raise an exception, which is always an option &ndash; and preferable if it's important
 that the program chokes on data errors).&nbsp; It also has the added benefit/side-effect of flattening the accumulated list.&nbsp; 
 If plied with the following:
 ```python
@@ -209,5 +209,5 @@ and "implicit" one to interfere with one another at all.&nbsp; Now we're on to s
 the code, (which is the best definition of a language pitfall I can think of right now).
 
 Also, the "for-loop" could be dispensed with if we don't care about flattening the list.&nbsp; 
-As such, it could be replaced with a list comprehension &ndash; or even a powerful obfustication using "reduce," or something from "itertools.chain" &ndash; 
-but that begs a whole new question about obfustication being a language pitfall... when should you _really_ go there?
+As such, it could be replaced with a list comprehension &ndash; or even a powerful obfuscation using "reduce," or something from "itertools.chain" &ndash; 
+but that begs a whole new question about obfuscation being a language pitfall... when should you _really_ go there?
